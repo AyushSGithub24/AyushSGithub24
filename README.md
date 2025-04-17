@@ -34,5 +34,3 @@ I’d love to collaborate on interesting full-stack projects or any open-source 
 I can spend hours tweaking the UI until it feels just right — clean code and clean design are my therapy.
 
 ---
-
-Want me to add a cool GitHub stats card, trophies, or activity graph too?
