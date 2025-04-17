@@ -27,7 +27,7 @@ I’d love to collaborate on interesting full-stack projects or any open-source 
 
 ## 📫 Reach Me
 - Email: [guptaayush2005@gmail.com](mailto:guptaayush2005@gmail.com)
-- LinkedIn: [linkedi](https://www.linkedin.com/in/ayush-gupta-23b3611a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/ayush-gupta-23b3611a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - leetcode: [guptaayush2005](https://leetcode.com/u/guptaayush2005/)
 
 ## ⚡ Fun Fact
