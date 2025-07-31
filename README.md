@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Web Developer** and a dedicated **Competitive Prog
 ---
 
 ## 🚀 What I’m Working On
-- 🔧 A feature-rich **MERN stack** project with authentication, content creation, and shareable links.
+- 🎨 Building a visually stunning clone of the Awwwards website, focused on modern UI/UX, smooth animations, and responsive design.
 - 🧠 Diving deeper into **Data Structures & Algorithms**, **System Design**, and core CS subjects like **OS**, **DBMS**, and **Computer Networks**.
 - 🎬 Exploring **Remotion.js** to convert comic panels into dynamic voice-over videos.
 
