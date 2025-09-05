@@ -16,8 +16,7 @@ I'm a passionate **Full-Stack Web Developer** and a dedicated **Competitive Prog
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [⚙️ Code Execution Engine](https://github.com/AyushSGithub24/Code-Execuiton-Backend) | Execute code in real-time using a backend compiler API. | Node.js, Docker, Express |
-| [🛒 Flipkart E-commerce Clone](https://github.com/AyushSGithub24/Flipkart-Clone) | A fully responsive e-commerce platform inspired by Flipkart. | React, Node.js, MongoDB |
-| [🖼️ Image to Video Automation](https://github.com/AyushSGithub24/Scraping) | Automate creation of narrated videos from comic images. | Python, GTTS, MoviePy |
+| [🖼️ WebComic Narration](https://github.com/AyushSGithub24/Scraping) | Automate creation of narrated videos from comic images. | Python, GTTS, FFMPEG |
 
 ---
 
@@ -37,16 +36,6 @@ I'm a passionate **Full-Stack Web Developer** and a dedicated **Competitive Prog
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGithub24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushSGithub24&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
